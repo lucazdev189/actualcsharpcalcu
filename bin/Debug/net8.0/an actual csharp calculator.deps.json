@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "an actual csharp calculator/1.0.0": {
+        "runtime": {
+          "an actual csharp calculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "an actual csharp calculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

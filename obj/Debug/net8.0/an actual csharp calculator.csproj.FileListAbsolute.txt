@@ -1,0 +1,28 @@
+E:\Users\Intel\New folder\DESKTOP FOLDERS\coding stuff\an actual csharp calculator\obj\Debug\net8.0\an actual csharp calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Intel\New folder\DESKTOP FOLDERS\coding stuff\an actual csharp calculator\obj\Debug\net8.0\an actual csharp calculator.AssemblyInfoInputs.cache
+E:\Users\Intel\New folder\DESKTOP FOLDERS\coding stuff\an actual csharp calculator\obj\Debug\net8.0\an actual csharp calculator.AssemblyInfo.cs
+E:\Users\Intel\New folder\DESKTOP FOLDERS\coding stuff\an actual csharp calculator\obj\Debug\net8.0\an actual csharp calculator.csproj.CoreCompileInputs.cache
+E:\Users\Intel\New folder\DESKTOP FOLDERS\coding stuff\an actual csharp calculator\bin\Debug\net8.0\an actual csharp calculator.exe
+E:\Users\Intel\New folder\DESKTOP FOLDERS\coding stuff\an actual csharp calculator\bin\Debug\net8.0\an actual csharp calculator.deps.json
+E:\Users\Intel\New folder\DESKTOP FOLDERS\coding stuff\an actual csharp calculator\bin\Debug\net8.0\an actual csharp calculator.runtimeconfig.json
+E:\Users\Intel\New folder\DESKTOP FOLDERS\coding stuff\an actual csharp calculator\bin\Debug\net8.0\an actual csharp calculator.dll
+E:\Users\Intel\New folder\DESKTOP FOLDERS\coding stuff\an actual csharp calculator\bin\Debug\net8.0\an actual csharp calculator.pdb
+E:\Users\Intel\New folder\DESKTOP FOLDERS\coding stuff\an actual csharp calculator\obj\Debug\net8.0\an actual csharp calculator.dll
+E:\Users\Intel\New folder\DESKTOP FOLDERS\coding stuff\an actual csharp calculator\obj\Debug\net8.0\refint\an actual csharp calculator.dll
+E:\Users\Intel\New folder\DESKTOP FOLDERS\coding stuff\an actual csharp calculator\obj\Debug\net8.0\an actual csharp calculator.pdb
+E:\Users\Intel\New folder\DESKTOP FOLDERS\coding stuff\an actual csharp calculator\obj\Debug\net8.0\an actual csharp calculator.genruntimeconfig.cache
+E:\Users\Intel\New folder\DESKTOP FOLDERS\coding stuff\an actual csharp calculator\obj\Debug\net8.0\ref\an actual csharp calculator.dll
+C:\Users\Admin\Downloads\coding stuff\an actual csharp calculator\bin\Debug\net8.0\an actual csharp calculator.exe
+C:\Users\Admin\Downloads\coding stuff\an actual csharp calculator\bin\Debug\net8.0\an actual csharp calculator.deps.json
+C:\Users\Admin\Downloads\coding stuff\an actual csharp calculator\bin\Debug\net8.0\an actual csharp calculator.runtimeconfig.json
+C:\Users\Admin\Downloads\coding stuff\an actual csharp calculator\bin\Debug\net8.0\an actual csharp calculator.dll
+C:\Users\Admin\Downloads\coding stuff\an actual csharp calculator\bin\Debug\net8.0\an actual csharp calculator.pdb
+C:\Users\Admin\Downloads\coding stuff\an actual csharp calculator\obj\Debug\net8.0\an actual csharp calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\coding stuff\an actual csharp calculator\obj\Debug\net8.0\an actual csharp calculator.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\coding stuff\an actual csharp calculator\obj\Debug\net8.0\an actual csharp calculator.AssemblyInfo.cs
+C:\Users\Admin\Downloads\coding stuff\an actual csharp calculator\obj\Debug\net8.0\an actual csharp calculator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\coding stuff\an actual csharp calculator\obj\Debug\net8.0\an actual csharp calculator.dll
+C:\Users\Admin\Downloads\coding stuff\an actual csharp calculator\obj\Debug\net8.0\refint\an actual csharp calculator.dll
+C:\Users\Admin\Downloads\coding stuff\an actual csharp calculator\obj\Debug\net8.0\an actual csharp calculator.pdb
+C:\Users\Admin\Downloads\coding stuff\an actual csharp calculator\obj\Debug\net8.0\an actual csharp calculator.genruntimeconfig.cache
+C:\Users\Admin\Downloads\coding stuff\an actual csharp calculator\obj\Debug\net8.0\ref\an actual csharp calculator.dll
